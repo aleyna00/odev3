@@ -1,0 +1,23 @@
+ body{ 
+      background-color: burlywood;
+}
+ header{
+      color: rgb(125, 248, 9);
+ }
+article{
+      color: rgb(56, 36, 10);
+}
+
+#list{
+      background-color: rgb(196, 155, 103);
+      
+  }
+ h3{
+     background-color: chocolate;
+     color: rgb(255, 254, 254);
+     padding: 5px;
+ }
+  #list2{
+      background-color: rgb(233, 166, 78);
+  }
+  
